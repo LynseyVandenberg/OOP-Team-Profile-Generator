@@ -28,5 +28,7 @@ The Team Profile Generator is a command line tool that allows the end user to in
 ## Demo:
 *In this video, I executed a test in JEST, then ran through the app to generate the employee team list webpage.*
 
-https://user-images.githubusercontent.com/81693557/123578954-dbf7f180-d7a4-11eb-8ac7-b98424826160.mp4
+https://user-images.githubusercontent.com/81693557/123582264-85da7c80-d7ab-11eb-935d-313ec93324eb.mp4
+
+
 
