@@ -1,6 +1,6 @@
 # Team Profile Generator
 ## Description:
-The Team Profile Generator is a command line tool that allows the end user to input employee information. The initla prompt asks the user to select a role (manager, engineer, or intern), then from there they receive a series of prompts to input additonal information (name, ID, email, etc.). Once the user is finished entering the employee information, an HTML file is rendered which shows the inputted employee information (image shown below).
+The Team Profile Generator is a command line tool that allows the end user to input employee information. The inital prompt asks the user to select a role (manager, engineer, or intern), then from there they receive a series of prompts to input additonal information (name, ID, email, etc.). Once the user is finished entering the employee information, an HTML file is rendered which shows the inputted employee information (image shown below).
 
 ![image](./media/Team_Profile_Generator_Screenshot.JPG)
 
